@@ -1,0 +1,221 @@
+
+<html>
+<meta charset ="UTF-8">
+
+	<meta name = "viewpoint" content = "width-device-width, initial-scale=1">
+
+
+	<title> Elizabeth Cancino </title>
+	
+
+
+	<link href = "css/styles3.css" rel = "stylesheet" type = "text/css" >
+	
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+	
+
+
+</head>
+
+<body bgcolor = #FAEDD9 >
+
+<header>
+
+<!-- This is for the Login -->
+
+<div class = "side-bar">
+      <ul>
+        <li> <a href= "#About"><i class="fas fa-home"></i> About</a></li>
+        <li> <a href= "#Projects"><i class="fas fa-code"></i> Projects</a></li>
+        <li> <a href= "#Art"><i class="fas fa-brush"></i> Art</a></li>
+        <li> <a href= "#Graphic_Design"><i class="fas fa-pencil-ruler"></i> Graphic Design</a></li>
+        <li> <a href= "#Process_Videos"><i class="fa fa-file-video-o" aria-hidden="true"></i> Process Videos</a></li>
+        <li> <a href= "#Photography"><i class="fa-solid fa-record-vinyl"></i> Photography</a></li>
+        <li> <a href= "#Contact">Contact</a></li>
+      </ul>
+    </div>
+    
+    
+  <section id = "intro">
+  
+  <img src="images/EC.png" alt="Mountains" style="width:100%">
+  
+  <!-- This is for the Login 
+   <div class="row_1">
+      <div class="column_1">
+        <img src="images/Elizabeth_Cancino.png" alt="Mountains" style="width:100%">
+      </div>
+      <div class="column_1">
+      
+         <img src="images/Elizabeth_Cancino_writing.png" alt="Mountains" style="width:110%"> 
+      </div>
+      
+       </div>
+      -->
+   
+   
+   
+   </section>
+<section id = "About">
+  <center><h1> About</h1></center>
+  <div class="row">
+  <div class="column">
+     <img src="images/cafe.jpg" alt="Snow" style="width:100%"> 
+    </div>
+  <div class="column"> 
+  
+  <center><h3>Hi, I’m Elizabeth Cancino – a curious creative who finds inspiration in both lines of code and lines on a sketchpad. When I’m not building something digital, you’ll find me drawing, exploring new places, watching movies, or out on a peaceful nature walk. I love blending creativity with technology to bring fresh ideas to life. </h3></center>
+
+  </div>
+  
+  <div class="column"> 
+   <img src="images/Drawing.jpg" alt="Snow" style="width:100%"> 
+  
+
+  </div>
+  </div>
+</section>
+
+<section id = "Projects">
+  <center><h1 class="white-text"> Coding Projects </h1></center>
+
+
+<div class="row">
+  <div class="column">
+    <img src="images/cs/save.png" alt="Snow" style="width:100%"> 
+    </div>
+  <div class="column">
+    <img src="images/cs/Tunes.png" alt="Forest" style="width:100%" > 
+    <p  class="white-text">   A unique website that helps users discover the best songs currently trending. It integrates SQL queries on the backend to sort and display song data based on popularity and user preferences. The frontend is built with HTML, CSS, and JavaScript, designed to be clean and easy to use. </p>
+     </div>
+  <div class="column">
+    <img src="images/cs/nikky.png" alt="Mountains" style="width:100%"> 
+    
+    <p class="white-text"> Built using HTML, CSS, and JavaScript, this e-commerce site emphasizes a modern design and user-friendly layout. Includes features like product filters, a cart system, and smooth transitions. The goal was to enhance user engagement through visual design and interactive functionality.</p> 
+    </div>
+</div>
+
+</section>
+
+<section id = "Art">
+
+<center><h1> Art </h1></center>
+<center><p> 
+Each painting is a reflection of the beauty I find in the world around me—lush forests, quiet trails, glowing sunsets, and the small, peaceful details we often overlook. Using acrylic paint, I capture the movement, mood, and emotion of natural scenes that inspire me during walks and travels. My work blends vibrant colors, organic textures, and expressive brushstrokes to bring these moments to life on canvas
+</p></center>
+
+<div class="row">
+  <div class="column">
+    <img src="images/Art/IMG_4809.jpeg" alt="Snow" style="width:100%"><h1> 07/07/2020</h1>
+  </div>
+  <div class="column">
+    <img src="images/Art/IMG_4811.jpeg" alt="Forest" style="width:100%"><h1> 07/11/2020</h1>
+  </div>
+  <div class="column">
+    <img src="images/Art/IMG_4810.jpeg" alt="Mountains" style="width:100%"><h1> 07/07/2020</h1>
+  </div>
+</div>
+</section>
+
+<section class = "white-text" id = "Graphic_Design">
+<center><h1> Graphic Design </h1></center>
+
+<div class="row">
+  <div class="column">
+    <img src="images/Graphic/map1.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Graphic/logo.png" alt="Forest" style="width:100%">
+  </div>
+</div>
+</section>
+
+<section id = "Photography">
+<center><h1> Photography </h1></center>
+
+<center><p> My nature photography is both a creative outlet and a way to stay connected to the world around me. It complements my art and design by keeping my perspective grounded, observant, and inspired by the outdoors.</p></center>
+<div class="row">
+  <div class="column">
+    <img src="images/Photography/photo1.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo2.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo3.jpeg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="images/Photography/photo4.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo5.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo6.jpeg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="images/Photography/photo7.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo8.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Photography/photo9.jpeg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+</section>
+
+<section id = "Process_Videos">
+<center><h1> Process Videos </h1></center>
+
+<div class="row">
+  <div class="column">
+    <video width="320" height="240" controls>
+    <source src="5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div class="column">
+    <video width="320" height="240" controls>
+    <source src="1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    </div>
+    
+    <div class="column">
+    <video width="320" height="240" controls>
+    <source src="7.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+    </video>
+    </div> 
+</div>
+</section>
+
+<section id = "Contact">
+<center><h1> Contact </h1></center>
+
+<center><div class = "contact">
+    <a href = https://www.linkedin.com/in/elizabeth-cancino-85bb9b178/ > <img src = "images/linkedin.jpeg"   width="64" height="64" />  </a >
+
+    <a href = https://github.com/ECP2020 > <img src = "images/GitHub.png"  width="64" height="64" />  </a>
+    <a href =https://www.instagram.com/paintin_ely/  > <img src = "images/ig.png" width="64" height="64"  />  </a>
+
+</div></center>
+
+</section>
+
+  
+
+<!--- <img src = "images/amigas.jpg" alt = "Project Inc" width = "500" height = "400" class = "background"> -->
+</header>
+
+
+</body>
+</html>
